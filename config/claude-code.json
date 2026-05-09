@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "notebooklm": {
+      "command": "node",
+      "args": ["/home/sebas/Documents/notebooklm MCP/dist/server.js"],
+      "env": {
+        "NOTEBOOKLM_PYTHON_CMD": "notebooklm"
+      }
+    }
+  }
+}
